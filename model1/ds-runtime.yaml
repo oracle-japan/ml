@@ -1,4 +1,0 @@
-# Model runtime environment
-conda-env: base
-runtime-environment: default
-version: 4.8.3
